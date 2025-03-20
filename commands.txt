@@ -1,0 +1,43 @@
+
+   50  git init
+   51  ls -a
+   52  clear
+   53  git status
+   54  git add testing.py
+   55  clear
+   56  git status
+   57  git commit -m "testing.py"
+   58  git status
+   59  clear
+   60  git init
+   61  clear
+   62  git status
+   63  clear
+   64  rm hello.py
+   65  git status
+   66  clear
+   67  rm testing.py
+   68  git status
+   69  git restore testing.py
+   70  git staus
+   71  git status
+   72  clear
+   73  git status
+   74  git status
+   75   git add hello.py
+   76  git status
+   77  git restore --staged hello.py
+   78  git status
+   79  clear
+   80  history
+   81  clear
+   82  git add Readme.md
+   83  clear
+   84  git remote add origin https://github.com/PrakharKachoriya/didactic-sniffle.git
+   85  git status
+   86  clear
+   87  git add .
+   88  git commit -m "hello.py"
+   89  git status
+   90  clear
+   91  history
