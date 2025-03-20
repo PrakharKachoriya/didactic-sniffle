@@ -41,3 +41,16 @@
    89  git status
    90  clear
    91  history
+   clear
+   93  git status
+   94  git add commands.txt
+   95  git commit -m "commands.txt"
+   96  clear
+   97  git status
+   98  clear
+   99  git push origin master
+  100  clear
+  101  git status
+  102  clear
+  104  clear
+  105  history
