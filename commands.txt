@@ -54,3 +54,61 @@
   102  clear
   104  clear
   105  history
+  1  git init
+    2  git status
+    3  git clone https://github.com/PrakharKachoriya/QR-Code-Generator.git
+    4  git status
+    5  git add QR-Code-Generator/
+    6  git status
+    7  git status
+    8  git add .
+    9  git commit
+   10  git push origin main
+   11  git push origin main
+   12  git push origin main
+   13  code .
+   14  code .
+   15  code .
+   16  code .
+   17  ls -a
+   18  cd .git
+   19  tree .
+   20  ls -a
+   21  cd .git
+   22  tree .
+   23  cmd
+   24  git --version
+   25  git update
+   26  git update-git-for-windows
+   27  git update-git-for-windows
+   28  git version
+   29  git update-git-for-windows
+   30  git update-git-for-windows
+   31  git version
+   32  git update
+   33  git update-git-for-windows
+   34  clear
+   35  git update-git-for-windows
+   36  GIT_CURL_VERBOSE=1 git update-git-for-windows
+   37  exit
+   38  whoami
+   39  pwd
+   40  clear
+   41  ls
+   42  which git
+   43  clear
+   44  bash
+   45  exit
+   46  git status
+   47  clear
+   48  git branch
+   49  git clear
+   50  clea
+   51  clear
+   52  git fetch
+   53  git status
+   54  git logs --oneline
+   55  git log
+   56  clear
+   57  git log --oneline
+   58  history
